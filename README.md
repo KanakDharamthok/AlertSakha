@@ -3,7 +3,8 @@
 **When Every Second Matters**
 
 AlertSakha is a high-performance, real-time emergency management platform designed to digitize and streamline crisis response in hospitality venues such as hotels, resorts, and large-scale hospitality businesses.
-Live Prototype Link: https://alertsakha.lovable.app
+
+- Live Prototype Link: https://alertsakha.lovable.app
 
 ---
 
